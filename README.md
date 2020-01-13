@@ -178,4 +178,4 @@ Check [CHANGELOG.md](CHANGELOG.md) file for the **Changelog**.
 
 
 [Termux App]: https://github.com/termux/termux-app
-[image_text_searcher](https://github.com/agnostic-apollo/image_text_searcher)
+[image_text_searcher]: https://github.com/agnostic-apollo/image_text_searcher
